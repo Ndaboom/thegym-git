@@ -5,5 +5,7 @@ Reinitialized existing Git repository in D:/Documents Ext/The Gym/Preparatory tr
 
  PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git branch -m master main
 
+ PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git add .
+
 
 ```
