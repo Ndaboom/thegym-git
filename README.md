@@ -35,3 +35,8 @@ M       README.md
 PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git branch -d test       
 Deleted branch test (was 85a046c).
 ```
+
+# Exercise 2 - Bundle 1
+```sh
+
+```
