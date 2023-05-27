@@ -62,4 +62,14 @@ PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git commit -m "Work
  2 files changed, 22 insertions(+), 1 deletion(-)
  create mode 100644 team.html
 PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git stash
+
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git stash pop
+```
+
+# Exercise 1 - Bundle 2
+```sh
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git checkout -b ft/bundle-2
+Switched to a new branch 'ft/bundle-2'
+
+
 ```
