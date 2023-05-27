@@ -38,5 +38,12 @@ Deleted branch test (was 85a046c).
 
 # Exercise 2 - Bundle 1
 ```sh
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git add .
 
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git commit -m "Work in progress - Home page" 
+[dev e338673] Work in progress - Home page
+ 2 files changed, 17 insertions(+)        
+ create mode 100644 home.html
+ 
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git stash
 ```
