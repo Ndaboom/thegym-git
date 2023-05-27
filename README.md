@@ -47,6 +47,7 @@ PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git commit -m "Work
 
 PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git stash
 
+
 git add .
 PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git commit -m "Work in progress - About page"
 [dev ec85df1] Work in progress - About page      
@@ -55,4 +56,10 @@ PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git commit -m "Work
 PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git stash
 
 
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git add .
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git commit -m "Work in progress - Team page"
+[dev 63811ec] Work in progress - Team page
+ 2 files changed, 22 insertions(+), 1 deletion(-)
+ create mode 100644 team.html
+PS D:\Documents Ext\The Gym\Preparatory training\thegym-git> git stash
 ```
